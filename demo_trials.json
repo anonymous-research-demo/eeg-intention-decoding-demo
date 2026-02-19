@@ -6,7 +6,7 @@
         "asr_transcript_raw": "/ma",
         "asr_transcript": "Class 3 (/ma)",
         "eeg_prediction": "Class 3 (/ma)",
-        "ground_truth": "Class 3 (/ma)",
+        "ground_truth": "Class 3 (/ma)"
       },
       "Sample 2": {
         "audio": "audio/segment_167.wav",
@@ -14,7 +14,7 @@
         "asr_transcript_raw": "/geum",
         "asr_transcript": "Class 1 (/geum)",
         "eeg_prediction": "Class 1 (/geum)",
-        "ground_truth": "Class 1 (/geum)",
+        "ground_truth": "Class 1 (/geum)"
       }
     },
   
@@ -25,7 +25,7 @@
         "asr_transcript_raw": "/um",
         "asr_transcript": "Class 1 (/guem)",
         "eeg_prediction": "Class 2 (/u)",
-        "ground_truth": "Class 2 (/u)",
+        "ground_truth": "Class 2 (/u)"
       },
       "Sample 2": {
         "audio": "audio/segment_142.wav",
@@ -33,7 +33,7 @@
         "asr_transcript_raw": "/ng",
         "asr_transcript": "Class 2 (/u)",
         "eeg_prediction": "Class 1 (/geum)",
-        "ground_truth": "Class 1 (/geum)",
+        "ground_truth": "Class 1 (/geum)"
       }
     },
   
@@ -44,7 +44,7 @@
         "asr_transcript_raw": "/mu",
         "asr_transcript": "Class 1 (/geum)",
         "eeg_prediction": "Class 2 (/u)",
-        "ground_truth": "Class 2 (/u)",
+        "ground_truth": "Class 2 (/u)"
       },
       "Sample 2": {
         "audio": "audio/segment_045.wav",
@@ -52,7 +52,7 @@
         "asr_transcript_raw": "/ba",
         "asr_transcript": "Class 3 (/ma)",
         "eeg_prediction": "Class 3 (/ma)",
-        "ground_truth": "Class 3 (/ma)",
+        "ground_truth": "Class 3 (/ma)"
       }
     },
   
@@ -63,7 +63,7 @@
         "asr_transcript_raw": "[SILENCE]",
         "asr_transcript": "Class 1 (/geum)",
         "eeg_prediction": "Class 2 (/u)",
-        "ground_truth": "Class 2 (/u)",
+        "ground_truth": "Class 2 (/u)"
       },
       "Sample 2": {
         "audio": "audio/segment_196.wav",
@@ -71,7 +71,7 @@
         "asr_transcript_raw": "[SILENCE]",
         "asr_transcript": "Class 1 (/geum)",
         "eeg_prediction": "Class 3 (/ma)",
-        "ground_truth": "Class 3 (/ma)",
+        "ground_truth": "Class 3 (/ma)"
       }
     }
   }
