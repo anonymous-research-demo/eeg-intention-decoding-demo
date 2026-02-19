@@ -1,78 +1,74 @@
 {
-    "Correct trials": {
-      "Sample 1": {
-        "audio": "audio/segment_004.wav",
-        "eeg_num": 4,
-        "asr_transcript_raw": "/ma",
-        "asr_transcript": "Class 3 (/ma)",
-        "eeg_prediction": "Class 3 (/ma)",
-        "ground_truth": "Class 3 (/ma)"
-      },
-      "Sample 2": {
-        "audio": "audio/segment_167.wav",
-        "eeg_num": 167,
-        "asr_transcript_raw": "/geum",
-        "asr_transcript": "Class 1 (/geum)",
-        "eeg_prediction": "Class 1 (/geum)",
-        "ground_truth": "Class 1 (/geum)"
-      }
+  "Correct trials": {
+    "Sample 1": {
+      "audio": "audio/segment_004.wav",
+      "eeg_num": 4,
+      "asr_transcript_raw": "/ma",
+      "asr_transcript": "Class 3 (/ma)",
+      "eeg_prediction": "Class 3 (/ma)",
+      "ground_truth": "Class 3 (/ma)"
     },
-  
-    "Ambiguous trials": {
-      "Sample 1": {
-        "audio": "audio/segment_119.wav",
-        "eeg_num": 119,
-        "asr_transcript_raw": "/um",
-        "asr_transcript": "Class 1 (/guem)",
-        "eeg_prediction": "Class 2 (/u)",
-        "ground_truth": "Class 2 (/u)"
-      },
-      "Sample 2": {
-        "audio": "audio/segment_142.wav",
-        "eeg_num": 142,
-        "asr_transcript_raw": "/ng",
-        "asr_transcript": "Class 2 (/u)",
-        "eeg_prediction": "Class 1 (/geum)",
-        "ground_truth": "Class 1 (/geum)"
-      }
+    "Sample 2": {
+      "audio": "audio/segment_167.wav",
+      "eeg_num": 167,
+      "asr_transcript_raw": "/geum",
+      "asr_transcript": "Class 1 (/geum)",
+      "eeg_prediction": "Class 1 (/geum)",
+      "ground_truth": "Class 1 (/geum)"
+    }
+  },
+  "Ambiguous trials": {
+    "Sample 1": {
+      "audio": "audio/segment_119.wav",
+      "eeg_num": 119,
+      "asr_transcript_raw": "/um",
+      "asr_transcript": "Class 1 (/guem)",
+      "eeg_prediction": "Class 2 (/u)",
+      "ground_truth": "Class 2 (/u)"
     },
-  
-    "Misarticulated trials": {
-      "Sample 1": {
-        "audio": "audio/segment_052.wav",
-        "eeg_num": 52,
-        "asr_transcript_raw": "/mu",
-        "asr_transcript": "Class 1 (/geum)",
-        "eeg_prediction": "Class 2 (/u)",
-        "ground_truth": "Class 2 (/u)"
-      },
-      "Sample 2": {
-        "audio": "audio/segment_045.wav",
-        "eeg_num": 45,
-        "asr_transcript_raw": "/ba",
-        "asr_transcript": "Class 3 (/ma)",
-        "eeg_prediction": "Class 3 (/ma)",
-        "ground_truth": "Class 3 (/ma)"
-      }
+    "Sample 2": {
+      "audio": "audio/segment_142.wav",
+      "eeg_num": 142,
+      "asr_transcript_raw": "/ng",
+      "asr_transcript": "Class 2 (/u)",
+      "eeg_prediction": "Class 1 (/geum)",
+      "ground_truth": "Class 1 (/geum)"
+    }
+  },
+  "Misarticulated trials": {
+    "Sample 1": {
+      "audio": "audio/segment_052.wav",
+      "eeg_num": 52,
+      "asr_transcript_raw": "/mu",
+      "asr_transcript": "Class 1 (/geum)",
+      "eeg_prediction": "Class 2 (/u)",
+      "ground_truth": "Class 2 (/u)"
     },
-  
-    "Silent trials": {
-      "Sample 1": {
-        "audio": "audio/segment_014.wav",
-        "eeg_num": 14,
-        "asr_transcript_raw": "[SILENCE]",
-        "asr_transcript": "Class 1 (/geum)",
-        "eeg_prediction": "Class 2 (/u)",
-        "ground_truth": "Class 2 (/u)"
-      },
-      "Sample 2": {
-        "audio": "audio/segment_196.wav",
-        "eeg_num": 196,
-        "asr_transcript_raw": "[SILENCE]",
-        "asr_transcript": "Class 1 (/geum)",
-        "eeg_prediction": "Class 3 (/ma)",
-        "ground_truth": "Class 3 (/ma)"
-      }
+    "Sample 2": {
+      "audio": "audio/segment_045.wav",
+      "eeg_num": 45,
+      "asr_transcript_raw": "/ba",
+      "asr_transcript": "Class 3 (/ma)",
+      "eeg_prediction": "Class 3 (/ma)",
+      "ground_truth": "Class 3 (/ma)"
+    }
+  },
+  "Silent trials": {
+    "Sample 1": {
+      "audio": "audio/segment_014.wav",
+      "eeg_num": 14,
+      "asr_transcript_raw": "[SILENCE]",
+      "asr_transcript": "Class 1 (/geum)",
+      "eeg_prediction": "Class 2 (/u)",
+      "ground_truth": "Class 2 (/u)"
+    },
+    "Sample 2": {
+      "audio": "audio/segment_196.wav",
+      "eeg_num": 196,
+      "asr_transcript_raw": "[SILENCE]",
+      "asr_transcript": "Class 1 (/geum)",
+      "eeg_prediction": "Class 3 (/ma)",
+      "ground_truth": "Class 3 (/ma)"
     }
   }
-  
+}
